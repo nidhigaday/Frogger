@@ -70,7 +70,7 @@ Player.prototype.render = function() {
     ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
 };
 
-Player.prototypw.handleInput = function(allowedKeys){
+Player.prototype.handleInput = function(allowedKeys){
     var initialX = x, initialY = y;
     if(allowedKeys === '37')
     {
