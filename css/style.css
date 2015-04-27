@@ -1,3 +1,10 @@
 body {
     text-align: center;
+    color: white;
+    margin: auto;
+    background-color: #303030;
+}
+
+h1 {
+    margin: 10px auto 5px auto;
 }
