@@ -72,9 +72,9 @@ Player.prototype.update = function() {
     } else if (this.ctrlKey === 'down' && this.y != 400) {
         this.y = this.y + 83;
     }
-    // setting value of ctlKey to null will give player a discreet movement
-    // otherwise, player will continue to move in the one direction unless
-    // change it direction of movement
+    // setting value of ctlKey to null will give player a hop movement
+    // otherwise, player will continue to move in the one direction
+    // unless, change its direction of movement
     // player will never come to a stop
     this.ctrlKey = null;
 
