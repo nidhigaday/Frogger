@@ -3,7 +3,7 @@
 
 ##How to play:
    * Player must reach water to win the game without colliding with Enemy-bugs
-   * Only 5 collisions are allowed else Game will be over!
+   * Only 5 collisions are allowed, else Game will be over!
 
 ##Resources I used to understand the process:
    1. http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/ - to understand the process of game construction
