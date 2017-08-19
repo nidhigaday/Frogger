@@ -28,4 +28,4 @@ Following are the links I used to understand the process:
 
 ## Result
 
-Target Achieved. Play [Frogger](http://nidhigaday.github.io/frogger) here.
+Target Achieved. Play [Frogger](http://nidhigaday.github.io/Frogger) here.
